@@ -14,15 +14,19 @@ This project was built using the following technologies:
 
 You can play the game in two ways:
 
-### 1. Online  
+### 1. Online
+
 Simply open the game in your browser via this link:  
 👉 [Play Game Little Snake](https://game-little-snake.vercel.app/)
 
-### 2. Locally  
+### 2. Locally
 
-1. Open the `index.html` file in your browser.  
-2. Use the arrow keys to move the snake.  
-3. Eat the food to grow and avoid hitting the walls or yourself.  
+Open the `index.html` file in your browser.
+
+## Controls
+
+- Use the arrow keys to move the snake.  
+- Eat the food to grow and avoid hitting the walls or yourself.  
 
 ## Objective
 
