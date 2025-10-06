@@ -1,3 +1,5 @@
+***The README you are accessing is in Portuguese-BR, if you prefer to access the README in English, [click here](README.md)***
+
 # Game Little Snake
 
 O **Game Little Snake** é um clone do clássico jogo da **Cobrinha**, criado por diversão e para praticar o desenvolvimento web.
